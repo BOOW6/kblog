@@ -1,20 +1,20 @@
-- links_category: Elites
-  has_thumbnail: true
+# - links_category: Elites
+#   has_thumbnail: true
+#   list:
+#       - name: EvanNotFound's Blog
+#         link: https://ohevan.com
+#         description: 用香港记者的速度更新文章
+#         avatar: https://evan.beee.top/avatar.png
+#         thumbnail: https://img1.imgtp.com/2023/06/19/Jegvz84P.png # has_thumbnail 为 true 时才需要
+
+- links_category: Normal
+  has_thumbnail: false
   list:
       - name: EvanNotFound's Blog
         link: https://ohevan.com
         description: 用香港记者的速度更新文章
         avatar: https://evan.beee.top/avatar.png
-        thumbnail: https://img1.imgtp.com/2023/06/19/Jegvz84P.png # has_thumbnail 为 true 时才需要
-
-- links_category: Normal
-  has_thumbnail: false
-  list:
-      - name: Example Site
-        link: https://example.com
-        description: Example Site Description
-        avatar: https://www.youtube.com/watch?v=dQw4w9WgXcQ
-      - name: Example Site 2
-        link: https://example.com
-        description: Example Site Description
-        avatar: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+      - name: 安仔の午睡床
+        link: https://anzai.sleepingbed.top
+        description: 可能是最贪睡的强迫症患者。
+        avatar: https://evan.beee.top/users/anzai/others/Avatar.jpg

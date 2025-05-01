@@ -2,6 +2,10 @@
 title: DietPi 安装与使用笔记
 date: 2025-05-01 18:49:45
 tags:
+    - "DietPi"
+    - "Linux"
+    - "SBC"
+thumbnail: "https://www.helloimg.com/i/2025/05/01/681389b3652a4.jpg"
 ---
 
 DietPi 是一个高度定制化的轻量级 Debian OS，比较适合有经验的开发人员或者资深爱好者使用。其安装过程稍显复杂，额外提供的功能也值得使用。本文将探讨 DietPi 的手工安装过程以及后续使用相关功能时可能遇到的问题。
@@ -143,7 +147,6 @@ curl -sSf https://raw.githubusercontent.com/fail2ban/fail2ban/master/config/filt
 
 ```
 curl -sSf https://raw.githubusercontent.com/fail2ban/fail2ban/master/config/filter.d/dropbear.conf /etc/fail2ban/filter.d/dropbear.local
-
 ```
 
 ### python3
@@ -156,11 +159,15 @@ curl -sSf https://raw.githubusercontent.com/fail2ban/fail2ban/master/config/filt
 
 选择 ```Change command``` ，修改命令为
 
-```python3 get-pip.py -i https://mirrors.ustc.edu.cn/pypi/simple --trusted-host mirrors.ustc.edu.cn```
+```
+python3 get-pip.py -i https://mirrors.ustc.edu.cn/pypi/simple --trusted-host mirrors.ustc.edu.cn
+```
 
 原命令
 
-```python3 get-pip.py```
+```
+python3 get-pip.py
+```
 
 PyPI 镜像源：
 https://mirrors.ustc.edu.cn/help/pypi.html
