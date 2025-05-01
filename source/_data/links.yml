@@ -7,7 +7,7 @@
 #         avatar: https://evan.beee.top/avatar.png
 #         thumbnail: https://img1.imgtp.com/2023/06/19/Jegvz84P.png # has_thumbnail 为 true 时才需要
 
-- links_category: Normal
+- links_category: 友情链接 # Normal
   has_thumbnail: false
   list:
       - name: EvanNotFound's Blog
