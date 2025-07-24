@@ -22,3 +22,11 @@
         link: https://rechx.cn
         description: 分享技术，不止于技术
         avatar: https://rechx.cn/avatar.png
+
+- links_category: 异常友链 # Normal
+  has_thumbnail: false
+  list:
+      - name: 还没有啦
+        link: about:blank
+        description: 这个人很懒，什么都没留下
+        avatar: https://rinko.online/images/avatar.webp

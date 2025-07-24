@@ -29,7 +29,7 @@ defaults:
   # Site logo
   logo: /images/logo.svg
   # Site avatar
-  avatar: /images/avatar.svg
+  avatar: /images/avatar.webp
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -387,7 +387,7 @@ footer:
   # Show website running time
   runtime: true # show website running time or not
   # Icon in footer, write fontawesome icon code here
-  icon: '<i class="fa-light fa-heart fa-beat" style="--fa-animation-duration: 0.75s"></i>'
+  icon: '<i class="fa-light fa-coffee"></i>'
   # The start time of the website, format: YYYY/MM/DD HH:mm:ss
   start: 2025/04/05 11:45:14
   # Site statistics
