@@ -22,9 +22,7 @@ comment: true
 
 ## 自我介绍
 
-坐标广东，25届大学生。专业是电子信息工程。
-
-
+坐标广东，25级大学生，专业是电子信息工程。
 
 ### 兴趣
 
@@ -32,9 +30,9 @@ comment: true
 
 喜欢听歌。常玩 Minecraft Java Edition。也爱尝试 RPG 游戏，玩过的有 Oneshot、OMORI、To the Moon (Series)、Dweller's Empty Path。不擅长玩音游，玩过的有 maimai、Phigros、Beatblock。
 
-喜欢的电影：《关于莉莉周的一切》、《大象席地而坐》。
+喜欢的电影《关于莉莉周的一切》、《大象席地而坐》。
 
-喜欢的动漫：《来自深渊》、《夏日幻魂》。在看《章鱼噼的原罪》。
+喜欢的动漫《来自深渊》、《夏日幻魂》。
 
 • ₃ •
 
