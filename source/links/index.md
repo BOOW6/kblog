@@ -11,11 +11,10 @@ comment: true
 
 基本要求：
 
-- 您的站点属于个人博客站点，以原创内容为主
+- 属于个人、独立的博客站点，以原创内容为主
 - 已将我站添加至您站点的友链页面
-- 您提供的链接长期有效，且不是跳转链接
-- 您的站点在中国大陆区域能够正常访问
-- 您的站点符合中国大陆法律法规
+- 链接长期有效，不是跳转链接
+- 您的站点在中国大陆区域能够正常访问，符合中国大陆法律法规
 - 没有大量的商业推广内容
 
 如果出现下面情况将被清理：
@@ -32,7 +31,7 @@ comment: true
 
 简介在 15 字内，10 字左右最佳，当然也可以更少甚至没有。
 
-图标尽量压缩，不要超过 400 KB，最好在 100 KB 左右或者更小（可以尝试用 webp 压缩）。
+我不缓存图标，但还是尽量压缩，不要超过 400 KB，最好在 100 KB 左右或者更小（可以尝试用 webp 压缩）。
 
 最后，通过下方评论区提交信息：标题、链接、简介（可选）、图标url（可选）。
 
@@ -40,7 +39,7 @@ comment: true
 
 ```
 name: Kokuyu's Blog
-link: https://rinko.online
+link: https://kokuyu.top
 description: =⩌⩊⩌=.
-avatar: https://rinko.online/images/avatar.webp
+avatar: https://kokuyu.top/images/avatar.webp
 ```
