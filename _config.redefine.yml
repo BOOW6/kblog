@@ -170,11 +170,12 @@ home_banner:
     style: default # default, reverse, center
     # Social links
     links:
-      github:  # your GitHub URL
-      instagram: # your Instagram URL
+      github: https://github.com/BOOW6 # your GitHub URL
+      instagram:  # your Instagram URL
       zhihu:  # your ZhiHu URL
-      twitter:  # your twitter URL
+      twitter: https://twitter.com/BOOW_e # your twitter URL
       email:  # your email
+      bilibili: https://space.bilibili.com/392876283
       # ...... # you can add more
     # Social links with QRcode drawers
     qrs:
@@ -461,7 +462,7 @@ page_templates:
 # Docs: https://redefine-docs.ohevan.com/cdn
 cdn:
   # Whether to enable CDN
-  enable: false
+  enable: true
   # CDN Provider
   provider: npmmirror # npmmirror, zstatic, cdnjs, jsdelivr, unpkg, custom
   # Custom CDN URL

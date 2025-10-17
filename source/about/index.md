@@ -11,7 +11,7 @@ comment: true
 建立本站是出于个人爱好。
 
 - 框架：Hexo
-- 主题：Redefile（启用 aliyun cdn 加速）
+- 主题：Redefile
 - 评论：Waline
 - 部署：Netlify
 - 使用 Cloudflare 的免费 cdn 加速（？）访问。
@@ -28,9 +28,11 @@ comment: true
 
 热衷捣鼓各类电子项目。
 
-喜欢听歌。常玩 Minecraft Java Edition。也爱尝试 RPG 游戏，玩过的有 Oneshot、OMORI、To the Moon (Series)、Dweller's Empty Path。不擅长玩音游。
+喜欢听歌。
 
-喜欢的电影：《关于莉莉周的一切》、《大象席地而坐》。
+爱玩 Minecraft Java Edition。爱玩 RPG 游戏。玩过的有 Oneshot、OMORI、To the Moon (Series)、Dweller's Empty Path。不擅长玩音游。
+
+喜欢的电影：《关于莉莉周的一切》、《大象席地而坐》、《怪物》。
 
 喜欢的动漫：《来自深渊》、《夏日幻魂》。
 
