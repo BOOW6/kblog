@@ -30,7 +30,7 @@ comment: true
 
 喜欢听歌。
 
-爱玩 Minecraft Java Edition。爱玩 RPG 游戏。玩过的有 Oneshot、OMORI、To the Moon (Series)、Dweller's Empty Path。不擅长玩音游。
+爱玩 Minecraft JE。爱玩 RPG 游戏。玩过的有 Oneshot、OMORI、To the Moon (Series)、Dweller's Empty Path。不擅长玩音游。
 
 喜欢的电影：《关于莉莉周的一切》、《大象席地而坐》、《怪物》。
 
