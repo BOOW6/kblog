@@ -10,10 +10,6 @@
 - links_category: 友情链接 # Normal
   has_thumbnail: false
   list:
-      - name: EvanNotFound's Blog
-        link: https://ohevan.com
-        description: 用香港记者的速度更新文章
-        avatar: https://evan.beee.top/avatar.png
       - name: 安仔の午睡床
         link: https://anzai.sleepingbed.top
         description: 可能是最贪睡的强迫症患者。
@@ -22,6 +18,10 @@
         link: https://blog.halfsweet.cn
         description: Try to create some value.
         avatar: https://blog.halfsweet.cn/img/Headshot.jpg
+      - name: EvanNotFound's Blog
+        link: https://ohevan.com
+        description: 用香港记者的速度更新文章
+        avatar: https://assets.ohevan.com/avatars/avatar-min.webp
       - name: Re-Ch的技术分享小屋
         link: https://rechx.cn
         description: 分享技术，不止于技术
