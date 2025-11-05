@@ -5,7 +5,7 @@ tags:
     - "DietPi"
     - "Linux"
     - "SBC"
-thumbnail: "https://www.helloimg.com/i/2025/05/01/681389b3652a4.jpg"
+thumbnail: "http://boow6.oss-cn-shanghai.aliyuncs.com/post_thumb/dietpi-note.webp"
 ---
 
 DietPi 是一个高度定制化的轻量级 Debian OS，比较适合有经验的开发人员或者资深爱好者使用。其安装过程稍显复杂，额外提供的功能也值得使用。本文将探讨 DietPi 的手工安装过程以及后续使用相关功能时可能遇到的问题。
