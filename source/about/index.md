@@ -14,7 +14,6 @@ comment: true
 - 主题：Redefile
 - 评论：Waline
 - 部署：Netlify
-- 使用 Cloudflare 的免费 cdn 加速（？）访问。
 
 [本站 GitHub Repository](https://github.com/BOOW6/kblog)
 
@@ -28,7 +27,7 @@ comment: true
 
 热衷捣鼓各类电子项目。
 
-喜欢听歌。
+喜欢听歌。术力口/后摇/古典...
 
 爱玩 Minecraft JE。爱玩 RPG 游戏。玩过的有 Oneshot、OMORI、To the Moon (Series)、Dweller's Empty Path。不擅长玩音游。
 
@@ -43,6 +42,7 @@ comment: true
 #### 熟悉
 
 - 嘉立创 EDA 专业版
+- 炸电容
 
 #### 入门
 
@@ -50,7 +50,7 @@ comment: true
 - Linux Shell
 - GIMP / Photoshop
 - Audacity / Audition
-- Premiere Pro
+- DaVinci / Premiere Pro
 - C
 - C++
 - Python
