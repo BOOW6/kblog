@@ -10,8 +10,6 @@ thumbnail: "http://boow6.oss-cn-shanghai.aliyuncs.com/post_thumb/dietpi-note.web
 
 DietPi 是一个高度定制化的轻量级 Debian OS，比较适合有经验的开发人员或者资深爱好者使用。其安装过程稍显复杂，额外提供的功能也值得使用。本文将探讨 DietPi 的手工安装过程以及后续使用相关功能时可能遇到的问题。
 
-本文引用的所有外部链接均不由本站提供服务！
-
 ## 0. 开始前
 
 建议先浏览这些文章
@@ -61,7 +59,7 @@ https://dietpi.com/docs/usage/#how-to-do-an-automatic-base-installation-at-first
 
 dietpi.txt 中我修改的地方：
 
-```
+```ini
 AUTO_SETUP_LOCALE=zh_CN.UTF-8
 AUTO_SETUP_KEYBOARD_LAYOUT=us
 AUTO_SETUP_TIMEZONE=Asia/Shanghai
@@ -91,7 +89,7 @@ https://mirrors.ustc.edu.cn/help/raspbian.html
 
 Raspberrypi 镜像源：
 https://mirrors.ustc.edu.cn/help/raspberrypi.html
-```
+```shell
 sudo sed \
   -e 's|archive.raspberrypi.org|mirrors.ustc.edu.cn/raspberrypi|g' \
   -e 's|archive.raspberrypi.com|mirrors.ustc.edu.cn/raspberrypi|g' \
@@ -114,13 +112,13 @@ sudo sed \
 
 解决方法：选择 ```Change command``` ，修改命令为
 
-```
+```shell
 curl -sSfLO https://gh.llkk.cc/https://github.com/MichaIng/DietPi/archive/master.tar.gz
 ```
 
 原命令
 
-```
+```shell
 curl -sSfLO https://github.com/MichaIng/DietPi/archive/master.tar.gz
 ```
 
@@ -139,13 +137,13 @@ https://github.akams.cn/
 
 解决方法：选择 ```Change command``` ，修改命令为
 
-```
+```shell
 curl -sSf https://raw.githubusercontent.com/fail2ban/fail2ban/master/config/filter.d/dropbear.conf -o /etc/fail2ban/filter.d/dropbear.local
 ```
 
 原命令
 
-```
+```shell
 curl -sSf https://raw.githubusercontent.com/fail2ban/fail2ban/master/config/filter.d/dropbear.conf /etc/fail2ban/filter.d/dropbear.local
 ```
 
@@ -159,13 +157,13 @@ curl -sSf https://raw.githubusercontent.com/fail2ban/fail2ban/master/config/filt
 
 选择 ```Change command``` ，修改命令为
 
-```
+```shell
 python3 get-pip.py -i https://mirrors.ustc.edu.cn/pypi/simple --trusted-host mirrors.ustc.edu.cn
 ```
 
 原命令
 
-```
+```shell
 python3 get-pip.py
 ```
 
